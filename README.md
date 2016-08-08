@@ -3,7 +3,9 @@ Small projects in Python
 
 
 Spell Checker
--------------------------------------------------------------------------------------------------------------------------------This is a simple spelling checker. It takes text from standard input and compares it against list of the words given in the dictionary and returns which spelling is correct and which is not.
+-------------------------------------------------------------------------------------------------------------------------------
+
+This is a simple spelling checker. It takes text from standard input and compares it against list of the words given in the dictionary and returns which spelling is correct and which is not.
 
 A demo run is pasted below:
 
