@@ -10,9 +10,13 @@ This is a simple spelling checker. It takes text from standard input and compare
 A demo run is pasted below:
 
 $ cat test.text
+
 This ees just aanother spelling checking routine.
+
 Boo hoo what do eu think i am doeeng?
+
 $ python spellCheck.py spell.words<test.text
+
  True   this
  False  ees
  True   just
